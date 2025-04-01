@@ -1,6 +1,6 @@
 # Dyawn Token Ecosystem
 
-## Author: John Lee at Digital Heores
+## Author: Jack Yu
 
 ## 1. Token Mint
 
